@@ -1,8 +1,21 @@
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddControllers();
+builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
 
-app.MapGet("/api/status", () => {
-    return new { status = "Ecommerce API Online", version = "1.0.0" };
-});
 
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "OmniReserve.Api v1");
+    });
+}
+
+app.UseAuthorization();
+app.MapControllers();
 app.Run();

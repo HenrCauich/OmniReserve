@@ -1,0 +1,12 @@
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\bin\Debug\net10.0\Ecommerce.Infrastructure.deps.json
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\bin\Debug\net10.0\Ecommerce.Infrastructure.dll
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\bin\Debug\net10.0\Ecommerce.Infrastructure.pdb
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\obj\Debug\net10.0\Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\obj\Debug\net10.0\Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\obj\Debug\net10.0\Ecommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\obj\Debug\net10.0\Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\obj\Debug\net10.0\Ecommerce.Infrastructure.sourcelink.json
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\obj\Debug\net10.0\Ecommerce.Infrastructure.dll
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\obj\Debug\net10.0\refint\Ecommerce.Infrastructure.dll
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\obj\Debug\net10.0\Ecommerce.Infrastructure.pdb
+C:\Users\alivi\Documents\EcommerceDemo\Ecommerce.Infrastructure\obj\Debug\net10.0\ref\Ecommerce.Infrastructure.dll
