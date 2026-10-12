@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OmniReserve.Api/OmniReserve.Api.csproj" />
+  <Project Path="OmniReserve.Domain/OmniReserve.Domain.csproj" />
+</Solution>
