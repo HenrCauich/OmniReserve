@@ -1,5 +1,5 @@
 using Microsoft.Extensions.DependencyInjection;
-using System.Reflection; // Necesario para Assembly
+using System.Reflection;
 
 namespace OmniReserve.Application;
 
