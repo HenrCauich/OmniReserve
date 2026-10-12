@@ -1,0 +1,9 @@
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\obj\Debug\net10.0\OmniReserve.Api.csproj.AssemblyReference.cache
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\obj\Debug\net10.0\OmniReserve.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\obj\Debug\net10.0\OmniReserve.Api.AssemblyInfoInputs.cache
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\obj\Debug\net10.0\OmniReserve.Api.AssemblyInfo.cs
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\obj\Debug\net10.0\OmniReserve.Api.csproj.CoreCompileInputs.cache
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\obj\Debug\net10.0\OmniReserve.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\obj\Debug\net10.0\OmniReserve.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\obj\Debug\net10.0\OmniReserve.Api.sourcelink.json
