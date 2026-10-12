@@ -15,7 +15,13 @@ C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\OmniReserve
 C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\OmniReserve.Api.runtimeconfig.json
 C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\OmniReserve.Api.dll
 C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\OmniReserve.Api.pdb
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\MediatR.dll
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\MediatR.Contracts.dll
 C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\alivi\Desktop\OmniReserve\OmniReserve.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
