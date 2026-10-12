@@ -14,6 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85d506ab4d84628702b1a6abdc2beb9b7d04484d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07b5d212c77abf5e7e3f54c2244d23f361e6ddff")]
 [assembly: System.Reflection.AssemblyProductAttribute("OmniReserve.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OmniReserve.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
