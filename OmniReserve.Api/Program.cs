@@ -1,5 +1,5 @@
 using OmniReserve.Application;
-using OmniReserve.Infrastructure; // <- Requerido
+using OmniReserve.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,10 +8,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddApplication();
-builder.Services.AddInfrastructure(); // <- Registrar la nueva capa
+builder.Services.AddInfrastructure(builder.Configuration); 
 
 var app = builder.Build();
-
 
 app.UseMiddleware<OmniReserve.Api.Middlewares.GlobalExceptionHandlingMiddleware>();
 
