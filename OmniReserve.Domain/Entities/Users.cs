@@ -6,11 +6,7 @@ public class User
 {
     public Guid Id { get; private set; }
     public string Name { get; private set; }
-    
-    
     public EmailAddress Email { get; private set; }
-    
-    
     public ICollection<Reservation> Reservations { get; private set; } = new List<Reservation>();
 
     public User(string name, EmailAddress email)
