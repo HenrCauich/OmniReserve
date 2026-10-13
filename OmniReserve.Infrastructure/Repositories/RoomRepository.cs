@@ -15,14 +15,18 @@ public class RoomRepository : IRoomRepository
 
     public async Task AddAsync(Room room)
     {
-      
         await _context.Rooms.AddAsync(room);
         await _context.SaveChangesAsync();
     }
 
     public async Task<Room?> GetByIdAsync(Guid id)
     {
-        
         return await _context.Rooms.FirstOrDefaultAsync(r => r.Id == id);
+    }
+
+    public async Task<Room?> SearchByNumberAsync(string roomNumber)
+    {
+        return await _context.Rooms
+            .FirstOrDefaultAsync(r => r.RoomNumber == roomNumber);
     }
 }
