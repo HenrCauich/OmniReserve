@@ -8,6 +8,9 @@ public class Reservation
     public DateTime StartDate { get; private set; }
     public DateTime EndDate { get; private set; }
 
+    public Room Room { get; private set; } = null!;
+    public User User { get; private set; } = null!;
+
     public Reservation(Guid roomId, Guid userId, DateTime startDate, DateTime endDate)
     {
         Id = Guid.NewGuid();

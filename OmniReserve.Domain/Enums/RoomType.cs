@@ -1,8 +1,8 @@
-namespace OmniReserve.Domain.Enums;
+namespace OmniReserve.Domain.Entities;
 
-public enum RoomType 
-{ 
-    Single, 
-    Double, 
-    Suite 
+public enum RoomType
+{
+    Single,
+    Double,
+    Suite
 }
