@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j7h+ZBNS8aM=",
+  "dgSpecHash": "2sjmJKbm6VQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\alivi\\Desktop\\OmniReserve\\OmniReserve.Application\\OmniReserve.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\alivi\\.nuget\\packages\\fluentvalidation\\12.2.0\\fluentvalidation.12.2.0.nupkg.sha512",
     "C:\\Users\\alivi\\.nuget\\packages\\mediatr\\14.2.0\\mediatr.14.2.0.nupkg.sha512",
     "C:\\Users\\alivi\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\alivi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
