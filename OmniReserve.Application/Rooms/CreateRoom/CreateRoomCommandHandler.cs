@@ -15,7 +15,7 @@ public class CreateRoomCommandHandler : IRequestHandler<CreateRoomCommand, Guid>
 
     public async Task<Guid> Handle(CreateRoomCommand request, CancellationToken cancellationToken)
     {
-        var room = new Room(request.RoomNumber, request.Type, request.PricePerNight);
+        var room = new Room(request.RoomNumber, request.PricePerNight, request.Type);
         
         await _roomRepository.AddAsync(room);
         return room.Id;

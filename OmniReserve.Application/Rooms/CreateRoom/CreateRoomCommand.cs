@@ -1,6 +1,6 @@
-
 using MediatR;
 using OmniReserve.Domain.Enums;
+using OmniReserve.Domain.Entities;
 
 namespace OmniReserve.Application.Rooms.Commands.CreateRoom;
 
