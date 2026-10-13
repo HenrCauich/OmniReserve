@@ -12,6 +12,7 @@ builder.Services.AddInfrastructure(); // <- Registrar la nueva capa
 
 var app = builder.Build();
 
+
 app.UseMiddleware<OmniReserve.Api.Middlewares.GlobalExceptionHandlingMiddleware>();
 
 if (app.Environment.IsDevelopment())
