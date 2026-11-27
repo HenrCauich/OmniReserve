@@ -15,9 +15,11 @@ public class ReservationRepository : IReservationRepository
 
     public async Task<Reservation?> GetReservationWithDetailsAsync(Guid id)
     {
-        return await _context.Reservations
-            .Include(r => r.User)
-            .Include(r => r.Room)
-            .FirstOrDefaultAsync(r => r.Id == id);
+        throw new NotImplementedException();
     }
+
+    public Task<bool> IsRoomAvailableAsync(Guid roomId, DateTime start, DateTime end)
+    {
+        throw new NotImplementedException();
+    } 
 }
