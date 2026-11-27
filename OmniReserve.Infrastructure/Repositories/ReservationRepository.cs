@@ -15,11 +15,20 @@ public class ReservationRepository : IReservationRepository
 
     public async Task<Reservation?> GetReservationWithDetailsAsync(Guid id)
     {
-        throw new NotImplementedException();
+        
+        return await _context.Reservations
+            .FirstOrDefaultAsync(r => r.Id == id);
     }
 
-    public Task<bool> IsRoomAvailableAsync(Guid roomId, DateTime start, DateTime end)
+    public async Task<bool> IsRoomAvailableAsync(Guid roomId, DateTime start, DateTime end)
     {
-        throw new NotImplementedException();
-    } 
+        
+        bool isOccupied = await _context.Reservations
+            .AnyAsync(r => r.RoomId == roomId &&
+                           r.StartDate < end &&
+                           r.EndDate > start);
+
+        
+        return !isOccupied;
+    }
 }
